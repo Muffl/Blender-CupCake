@@ -1,0 +1,3 @@
+[submodule "Blender-Cupcake"]
+	path = Blender-Cupcake
+	url = https://github.com/Muffl/Blender-CupCake.git
